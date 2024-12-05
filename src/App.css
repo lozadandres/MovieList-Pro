@@ -79,6 +79,11 @@ ul li{
   list-style-type: none;
 }
 
+h1{
+  color: var(--citrine);
+  margin-block: 50px;
+}
+
 /*-----------------------------------*\
  * #REUSED STYLE
 \*-----------------------------------*/
@@ -107,6 +112,7 @@ ul li{
   font-family: Arial, sans-serif;
   text-align: center;
   color: #333;
+  margin-block: 50px;
 }
 
 .app-title {
